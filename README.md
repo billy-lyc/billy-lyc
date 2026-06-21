@@ -1,4 +1,8 @@
-## Hi there 👋
+## About Me
+
+I am Yucheng Li, and you can also call me Billy. I am a rising junior at UNC Chapel Hill, majoring in Computer Science and Statistics & Analytics. I'm interested in AI agent engineering, machine learning, neuroimaging analysis, and using technology to advance human health — recently moving more focus toward the intersection of computer science and medicine!
+
+
 
 <!--
 **billy-lyc/billy-lyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
