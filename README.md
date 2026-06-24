@@ -1,6 +1,6 @@
 ## About Me
 
-I am Yucheng Li, and you can also call me Billy. I am a rising junior at UNC Chapel Hill, majoring in Computer Science and Statistics & Analytics. I'm interested in AI agent engineering, machine learning, neuroimaging analysis, and using technology to advance human health — recently moving more focus toward the intersection of computer science and medicine!
+I am Yucheng Li, and you can also call me Billy. I am a rising junior at UNC Chapel Hill, majoring in Computer Science and Statistics & Analytics. I'm interested in AI agent engineering, machine learning, neuroimaging analysis, and using technology to advance human health — recently moving more focus toward the intersection of computer science and medicine! 😆
 
 ## Skills
 Project Planning and Management, Agentic AI Development, LLM Application Engineering, Cloud Architecture, Data Engineering & Pipeline Building, Machine Learning Model Deployment, Data Analysis & Visualization, Full-stack Engineering, Object-oriented Programming, System Design, Cross-functional Collaboration👨‍💻
